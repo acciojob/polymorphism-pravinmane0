@@ -1,4 +1,4 @@
-ppackage com.driver;
+package com.driver;
 
 public class Product {
 
